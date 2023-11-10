@@ -114,6 +114,7 @@
     <form method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>" id="orderForm">
         <label for="food" class="order">Choose your order here:</label>
         <select name="food" id="food" class="order">
+            <option value=""></option>
             <option value="Adobo">Adobo - ₱35</option>
             <option value="Sinigang">Sinigang - ₱40</option>
             <option value="Kare-Kare">Kare-Kare - ₱30</option>
