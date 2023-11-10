@@ -79,7 +79,7 @@
             <label for="">₱60 PANCIT CANTON</label>
         </div>
         <div class="column">
-            <img src="lechonkawali.jpg" width="100%">
+            <img src="LechonKawali.jpg" width="100%">
             <label for="">₱50 LECHON KAWALI</label>
         </div>
 
